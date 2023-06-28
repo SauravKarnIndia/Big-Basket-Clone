@@ -6,7 +6,9 @@ It website allows customers to browse and purchase grocery products online, and 
 
 Featured-  
   -Landing page 
+      
        -Product page 
+     
       -Log in page 
      -Billing page 
       -Cart Page 
